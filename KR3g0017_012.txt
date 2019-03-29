@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 靈臺祕苑
-#+DATE: 2019-03-29 21:11:21.829218
+#+DATE: 2019-03-29 21:11:21.936714
 #+PROPERTY: ID KR3g0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR3g0017_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -194,7 +194,7 @@
 　　漸臺¶
 ¶
 　　漸臺距東南星去極五十八度入斗十度　明則陰陽¶
-調而律呂和不明則反是　客彗孛干犯守之陰陽&KR0446;¶
+調而律呂和不明則反是　客彗孛干犯守之陰陽乖¶
 戾　流星犯宫庭火¶
 ¶
 　　輦道¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 靈臺祕苑
-#+DATE: 2019-03-29 21:11:21.851243
+#+DATE: 2019-03-29 21:11:21.955482
 #+PROPERTY: ID KR3g0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR3g0017_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -102,7 +102,7 @@
 ¶
 　　孛星¶
 ¶
-　　孛星光芒四出蓬蓬孛孛惡&KR0148;之所生孛亂不明之象¶
+　　孛星光芒四出蓬蓬孛孛惡氣之所生孛亂不明之象¶
 參焉孛焉兵之類也不有内亂則有外兵　天下合謀¶
 闇蔽不明　見有所傷客灾甚於彗¶
 ¶

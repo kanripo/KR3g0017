@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 靈臺祕苑
-#+DATE: 2019-03-29 21:11:21.795690
+#+DATE: 2019-03-29 21:11:21.908265
 #+PROPERTY: ID KR3g0017
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR3g0017_WYG_007-1a>¶
 　　欽定四庫全書¶
 ¶
-　　靈臺秘𫟍卷七　　　北周　庾季才　原撰¶
+　　靈臺秘苑卷七　　　北周　庾季才　原撰¶
 ¶
 　　宋　王安禮等　重修¶
 ¶
